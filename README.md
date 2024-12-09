@@ -1,8 +1,9 @@
 # 项目名称
-# Orange-Pi-3B
+# Orange-Pi-3B v2.1版本
 ## 简介
 Orange Pi 3B亚克力外壳图纸
 ## 特性
+v2.1版本
 https://github.com/user-attachments/assets/9efa0123-cf72-45d8-994e-c84b5d51efe3
 ## 使用说明
 | 序号 | 名称 | 规格 | 数量|
